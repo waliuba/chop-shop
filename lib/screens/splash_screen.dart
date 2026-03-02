@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
+import 'package:chop_shop/universal components/image_strings.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
@@ -14,7 +15,7 @@ class SplashScreen extends StatelessWidget {
         
         children:[
            Lottie.asset(
-          'lib/assets/splash/Shopping Cart Loader.json',
+          XImages.splash,
           width: 220,
           height: 220,
           fit: BoxFit.contain,
