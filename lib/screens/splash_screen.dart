@@ -14,7 +14,7 @@ class SplashScreen extends StatelessWidget {
       
         
         children:[
-           Lottie.asset(
+           Lottie.asset(  
           XImages.splash,
           width: 220,
           height: 220,
