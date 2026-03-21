@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278243389033",
+    "project_id": "chop-shop-f37dd",
+    "storage_bucket": "chop-shop-f37dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278243389033:android:a3d08ff2623aee474dbcf8",
+        "android_client_info": {
+          "package_name": "com.example.chop_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt3idH3_IEd30_K2yn1rYTDDM43b9e4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
